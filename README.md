@@ -14,7 +14,6 @@ I started programming with C# language and in the end I followed my interest and
 * ✉️ You can contact me at [aliazizi.4973@gmail.com], [Instagram: aliazizi._.dev]
 * 🌱  I'm learning JavaScript ES6 ( ECMA SCRIPT 6 )
 * 🤝  I'm open to collaborating on Front-End projects
-* 🌍  Love JavaScript (JS)
 * 👯  I am looking for cooperation in front-end projects :)
 
 <a href="https://github.com/aliazizi-pwd" target="_blank" rel="noreferrer"><img>
